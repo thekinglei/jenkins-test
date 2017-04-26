@@ -1,3 +1,4 @@
 安装插件列表（或关键字）：
-Dashboard View：分类展示list下的job
+Dashboard View：
+Mashup Portlets：分类展示list下的job
 nest
