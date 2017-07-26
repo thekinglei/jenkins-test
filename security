@@ -1,0 +1,9 @@
+官方的安全指南
+
+不少持续集成工具的官方都提供了最佳实践以及安全指南帮助我们构建持续集成服务器。请务必在构建持续集成服务器前阅读并理解这些安全实践和措施，
+
+并遵照安全最佳实践构建持续集成服务器：
+
+Jenkins最佳实践：https://wiki.jenkins-ci.org/display/JENKINS/Jenkins+Best+Practices
+
+Jenkins官方安全指南：https://wiki.jenkins-ci.org/display/JENKINS/Securing+Jenkins
